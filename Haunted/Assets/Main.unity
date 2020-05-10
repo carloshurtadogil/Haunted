@@ -3783,7 +3783,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1768914300}
   - component: {fileID: 1768914299}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: GlobalPost
   m_TagString: Untagged
   m_Icon: {fileID: 0}
